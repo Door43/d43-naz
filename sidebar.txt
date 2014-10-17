@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[naz:home|Door43 (naz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-naz|d43-naz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-naz/archive/master.zip|d43-naz.zip]]
+
+**Recent Changes**
+{{changes>ns = naz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/naz|Ethnologue data]]
+
